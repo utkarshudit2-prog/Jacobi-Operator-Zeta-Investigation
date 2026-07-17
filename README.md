@@ -16,9 +16,7 @@ In this study, I constructed a tridiagonal Jacobi matrix $J_N$ of size $N$.
 3. **Convergence:** As the matrix size $N$ increases, the relative error in the trace identity appears to exhibit a decay rate of $\mathcal{O}(N^{-2})$.
 
 ## Code & Data
-You can find the implementation and data analysis scripts in this repository.
-I have given the code in another file please check their
-
+You can find the implementation and data analysis scripts in this repository. Specifically, see zeta_model.py."
 
 ## About Me
 I am a 9th-grade student deeply interested in mathematics and computational physics. This project is a documentation of my independent learning journey and numerical explorations.
